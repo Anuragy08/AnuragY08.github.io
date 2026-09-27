@@ -160,10 +160,10 @@ function HomePage() {
         </button>
 
         <nav className={menuOpen ? "site-nav is-open" : "site-nav"} aria-label="Main navigation">
-          {navigation.map((item) => (
-            <a key={item} href={item === "Projects" ? "/projects" : `#${item.toLowerCase()}`} onClick={closeMenu}>
-              {item}
-            </a>
+          {navigation.map((item) => item === "Projects" ? (
+            <Link key={item} to="/projects" onClick={closeMenu}>{item}</Link>
+          ) : (
+            <a key={item} href={`#${item.toLowerCase()}`} onClick={closeMenu}>{item}</a>
           ))}
           <a className="button button-small" href="#contact" onClick={closeMenu}>
             Let&apos;s Connect <ArrowRight size={16} aria-hidden="true" />

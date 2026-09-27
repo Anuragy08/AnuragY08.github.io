@@ -1,0 +1,22 @@
+Play_Market_2025
+
+📱 Play Market 2025 – App Performance & Market Analysis
+A complete business intelligence project exploring the mobile app marketplace through interactive dashboards built in Excel and Power BI. This project reveals actionable insights into app downloads, ratings, review behavior, and category-level performance.
+
+🎯 Project Objective
+To extract meaningful insights from app store data by analyzing:
+
+App and game download trends
+User ratings and review scores
+Category-wise popularity
+Engagement and feedback patterns
+
+🛠️ Tools & Technologies Used
+Tool	Purpose
+Power BI	Dashboarding, DAX, visualization
+Excel	Dynamic slicer-based dashboards
+Python	Data cleaning, formatting (pandas)
+SQL	Querying and filtering data
+Power Query	ETL process in Power BI
+
+GitHub Link- https://github.com/Anuragy08/Play_Market_2025

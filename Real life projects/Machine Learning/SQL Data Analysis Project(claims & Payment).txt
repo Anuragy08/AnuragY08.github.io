@@ -1,0 +1,3 @@
+SQL Data Analysis Project(claims & Payment)
+
+Analysed customer and claim data using complex SQL queries to extract business insights, trends and key metrics

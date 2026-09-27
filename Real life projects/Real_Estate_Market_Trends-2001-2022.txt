@@ -1,0 +1,26 @@
+Real_Estate_Market_Trends-2001-2022
+
+This project analyzes real estate sales data from 2001 to 2022 using Python, SQL, and Power BI. It includes an automated data pipeline, insightful dashboards, and end-to-end documentation to provide a comprehensive view of market trends and property insights.
+
+📊 Tools & Technologies
+Power BI – Data visualization and report building
+Python – Data preprocessing, cleaning, and ETL automation
+MySQL – Data storage and querying
+Power BI Theme – Custom JSON theme for professional styling
+
+📄 Features
+ETL pipeline for cleaning and transforming raw data
+Interactive and professional Power BI dashboards
+Python animation scripts for dashboard and ETL flow visualization
+Drill-through pages for granular property insights
+
+
+📌 Use Case
+Ideal for showcasing in portfolios to highlight:
+
+End-to-end data project execution
+Advanced Power BI dashboarding
+Real-world ETL implementation
+Strong documentation and project organization
+
+GitHub link- https://github.com/Anuragy08/Real_Estate_Market_Trends-2001-2022-

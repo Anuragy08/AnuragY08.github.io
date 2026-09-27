@@ -1,0 +1,14 @@
+Smart-Retail-Database
+
+Overview
+This project demonstrates end-to-end data analysis of a simulated retail business using SQL. The dataset includes information about customers, orders, products, staff, stores, and inventory.
+
+The goal is to extract actionable insights using advanced SQL queries that support strategic retail decisions, such as customer segmentation, sales trends, product performance, and workforce optimization.
+
+Project Highlights
+Database: MySQL-based analysis using structured queries (CTEs, Joins, Aggregates, RFM, etc.)
+Customer Insights: RFM segmentation to understand customer behavior
+Performance Analysis: Staff and store efficiency, product trends, and revenue drivers
+Query Levels: Queries structured across Beginner, Intermediate, and Advanced levels
+
+GitHub link- https://github.com/Anuragy08/Smart-Retail-Database

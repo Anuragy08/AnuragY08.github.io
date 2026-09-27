@@ -1,0 +1,4 @@
+Real Estate Prediction Price using KNN
+
+Predicted house prices using K- Nearest Neighbours on real estate dataset with feature engineering, data cleaning and model evaluation.
+

@@ -1,0 +1,3 @@
+Loan approval Prediction using Logistic Regression 
+
+Built a classification model to predict loan approval with data preprocessing, feature scaling and model evaluation.
